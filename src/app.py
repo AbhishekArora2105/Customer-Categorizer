@@ -8,9 +8,7 @@
 # from datetime import datetime
 # from src.db import predictions_collection, logs_collection
 # # Replace with your actual URI
-# # client = MongoClient(
-# #     "mongodb+srv://admin:secret123@cluster0.g5xhf.mongodb.net/customer_segmentation?retryWrites=true&w=majority"
-# # )
+
 
 # # # Database & collections
 # # db = client["customer_segmentation"]
